@@ -11,5 +11,5 @@ Esse é o jogo da forca. Bom, não tem muito oque explicar sobre o jogo, mas bas
 
 
 <h2>📂 Questions</h2>
-<p>1º Porque eu escolhi a linguagem Python? Praticidade e aprendizado.
+<p>1º Porque eu escolhi a linguagem Python?<br>R: Praticidade e aprendizado.
 </p>
