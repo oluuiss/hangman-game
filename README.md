@@ -1,7 +1,7 @@
 <h1>🛠️ Hello, peoples!</h1>
 <p>
-Esse projeto eu fiz pela graduação. No qual eu deveria criar um jogo (em qualquer linguagem) da maneira que eu preferir. Eu decidi pegar python pela facilidade de leitura e aprendizado, para quem deseja conhecer novas linguagens. <br>
-Esse é o jogo da forca. Bom, não tem muito oque explicar sobre o jogo, mas basicamente: O usuário tera de escolher um tema e à partir disso será gerado aleatóriamente uma das palavras descrito na função do tema.
+Este projeto eu fiz pela graduação, no qual eu deveria criar um jogo (qualquer linguagem) da maneira que preferir. Decidi concluir o projeto em python pela facilidade de leitura, aprendizado e praticidade.<br>
+Pela diversidade eu resolvi fazer o jogo da forca, pois na minha opnião é um bom jogo para testar os seus conhecimentos. Bom, não tem muito oque explicar sobre o jogo, mas basicamente: O usuário tera de escolher um tema e à partir disso será gerado aleatóriamente uma das palavras descrito na função do tema.
 </p>
 
 <h1>📌 Explicando o código</h1>
