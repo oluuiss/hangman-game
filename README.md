@@ -1,16 +1,16 @@
 # Summary
-01. [Introduction](#Introduction)
-00. [Guide to Download and Install Python on Your PC](#guide-to-download-and-install-python-on-your-PC)
-00. [Step 1: Visit the Official Python Website](#step-1-visit-the-official-python-website)
-00. [Step 2: Download the Latest Version](#step-2-download-the-latest-version)
-00. [Step 3: Install Python](#step-3-install-python)
-   00. [Windows](#windows)
-   00. [macOS](#macos)
-   00. [Linux](#linux)
-00. [Verify the Installation](#step-4-verify-the-installation)
-00. [Set Up a Code Editor](#step-5-set-up-a-code-editor)
-00. [Start Coding](#step-6-start-coding)
-00. [Resume](#resume)
+1. [Introduction](#introduction)
+2. [Guide to Download and Install Python on Your PC](#guide-to-download-and-install-python-on-your-pc)
+   1. [Step 1: Visit the Official Python Website](#step-1-visit-the-official-python-website)
+   2. [Step 2: Download the Latest Version](#step-2-download-the-latest-version)
+   3. [Step 3: Install Python](#step-3-install-python)
+      - [Windows](#windows)
+      - [macOS](#macos)
+      - [Linux](#linux)
+   4. [Step 4: Verify the Installation](#step-4-verify-the-installation)
+   5. [Step 5: Set Up a Code Editor](#step-5-set-up-a-code-editor)
+   6. [Step 6: Start Coding](#step-6-start-coding)
+3. [Resume](#resume)
 
 
 # Introduction
