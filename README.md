@@ -1,14 +1,15 @@
 # Summary
 01. [Introduction](#Introduction)
-00. [Guide](#guide-to-Download-and-install-python-on-your-pc)
-00. [Access the Official Python Website](#step-1-access-the-official-python-website)
-00. [Download the Python Installer](#step-2-download-the-python-installer)
-00. [Start the Installation Process](#step-3-start-the-installation-process)
-00. [Installation Setup](#step-4-installation-setup)
-00. [Verify the Installation](#step-5-verify-the-installation)
-00. [Installing a Code Editor](#step-6-installing-a-code-editor)
-00. [Writing and Running Your Python Code](#step-7-writing-and-running-your-python-code)
-00. [Conclusion](#conclusion)
+00. [Guide to Download and Install Python on Your PC](#guide-to-download-and-install-python-on-your-PC)
+00. [Step 1: Visit the Official Python Website](#step-1-visit-the-official-python-website)
+00. [Step 2: Download the Latest Version](#step-2-download-the-latest-version)
+00. [Step 3: Install Python](#step-3-install-python)
+   00. [Windows](#windows)
+   00. [macOS](#macos)
+   00. [Linux](#linux)
+00. [Verify the Installation](#step-4-verify-the-installation)
+00. [Set Up a Code Editor](#step-5-set-up-a-code-editor)
+00. [Start Coding](#step-6-start-coding)
 00. [Resume](#resume)
 
 
@@ -27,42 +28,80 @@ The implementation involved creating a data structure to store the words for eac
 # Guide to Download and Install Python on Your PC
 <div>
   
-To start programming in Python and code your Hangman game or any other project, follow the steps below to download and install Python on your computer.
+This guide will help you download and install Python on your computer to start coding. Follow these steps carefully!
 
-## Step 1: Access the Official Python Website
+## **Step 1: Visit the Official Python Website**
 1. Open your web browser.
 2. Go to the official Python website: [https://www.python.org/](https://www.python.org/).
 
-## Step 2: Download the Python Installer
-1. On the homepage of the website, you will see a button to download the latest version of Python.
-   - If you're using Windows, the website will automatically suggest the correct installer for your system.
-   - If you're using Mac or Linux, the site will also provide the appropriate installer for those systems.
+---
 
-2. Click the **"Download Python"** button (e.g., **Download Python 3.x.x**).
+## **Step 2: Download the Latest Version**
+1. On the homepage, you’ll see a button labeled **"Download Python X.X.X"** (where X.X.X is the latest version).
+2. Click the button to download the installer for your operating system (Windows, macOS, or Linux).
 
-## Step 3: Start the Installation Process
-1. After the download is complete, locate the installer file on your computer (usually in the **Downloads** folder).
-2. Double-click the file to start the installation process.
+---
 
-## Step 4: Installation Setup
-1. **Important:** When the installer starts, **make sure to check the box that says "Add Python to PATH"** before clicking **"Install Now"**. This will ensure that Python is correctly set up on your system and accessible from the command prompt.
+## **Step 3: Install Python**
 
-2. Click **"Install Now"**. The installer will copy the necessary files to your computer and set up Python.
+### **Windows**
+1. Open the downloaded file (`python-X.X.X.exe`).
+2. On the first screen, check the box that says **"Add Python to PATH"**.
+3. Click **"Install Now"** for a default installation or **"Customize installation"** to modify settings.
 
-## Step 5: Verify the Installation
-1. Once the installation is complete, open the **Command Prompt** (on Windows) or **Terminal** (on Mac or Linux).
+### **macOS**
+1. Open the downloaded file (`python-X.X.X.pkg`).
+2. Follow the installation wizard.
+3. After installation, Python will be accessible through the Terminal.
 
-2. Type the following command and press **Enter**:
+### **Linux**
+1. Check if Python is already installed by running:
+   ```
+   python3 --version
+   ```
+
+2. If it’s not installed, use your package manager to install it. For example, on Ubuntu:
+```
+sudo apt update
+sudo apt install python3
+```
+
+## Step 4: Verify the Installation
+1. Open a terminal (Command Prompt for Windows, Terminal for macOS/Linux).
+2. Run the following command:
 ```
 python --version
 ```
-
+or
 ```
 python3 --version
 ```
-  
-</div>
+3. You should see the installed Python version displayed.
 
+## Step 5: Set Up a Code Editor
+While Python comes with a basic editor called IDLE, you might want to use a more advanced code editor:
+
+- Visual Studio Code: https://code.visualstudio.com/
+- PyCharm: https://www.jetbrains.com/pycharm/
+
+Download and install the editor of your choice.
+
+## Step 6: Start Coding
+1. Open your editor or the IDLE environment.
+2. Create a new file with the .py extension (e.g., hello_world.py).
+3. Write your Python code. For example:
+```
+print("Hello, World!")
+```
+4. To run the file, open a terminal, navigate to the file's directory, and type:
+```
+python hello_world.py
+```
+or
+```
+python3 hello_world.py
+```
+</div>
 
 
 # Resume
