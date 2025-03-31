@@ -85,22 +85,6 @@ While Python comes with a basic editor called IDLE, you might want to use a more
 - PyCharm: https://www.jetbrains.com/pycharm/
 
 Download and install the editor of your choice.
-
-## Step 6: Start Coding
-1. Open your editor or the IDLE environment.
-2. Create a new file with the .py extension (e.g., hello_world.py).
-3. Write your Python code. For example:
-```
-print("Hello, World!")
-```
-4. To run the file, open a terminal, navigate to the file's directory, and type:
-```
-python hello_world.py
-```
-or
-```
-python3 hello_world.py
-```
 </div>
 
 
