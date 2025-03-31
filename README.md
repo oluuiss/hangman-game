@@ -9,7 +9,6 @@
       - [Linux](#linux)
    4. [Step 4: Verify the Installation](#step-4-verify-the-installation)
    5. [Step 5: Set Up a Code Editor](#step-5-set-up-a-code-editor)
-   6. [Step 6: Start Coding](#step-6-start-coding)
 3. [Resume](#resume)
 
 
